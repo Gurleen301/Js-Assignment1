@@ -24,7 +24,7 @@ Hence, I chose this topic for creating node application as it aims to develop a 
 # Create multiple data entry in a collection
 ![adding multiple data result](https://user-images.githubusercontent.com/78660994/171063199-16e1b9f7-8b36-4fcc-9ee2-6e8f058bdd3f.PNG)
 
-# data in the database on mongo after added mutliple data in a collection using createMultipleListings() function
+# data in the database on mongo after adding mutliple data in a collection (Books) using createMultipleListings() function
 ![mutliple data entry 1](https://user-images.githubusercontent.com/78660994/171063689-4a6b81a5-1b28-4ecc-ac5a-00d742044c20.PNG)
 
 ![mutliple data entry 2](https://user-images.githubusercontent.com/78660994/171063696-ae7dd5aa-df54-4c53-85be-7fae0eef0c4a.PNG)
@@ -36,5 +36,6 @@ Hence, I chose this topic for creating node application as it aims to develop a 
 ![Update record using upsert output](https://user-images.githubusercontent.com/78660994/171063254-8a275a5c-8b74-45f9-8753-3076d4561c56.PNG)
 
 # Delete records by date
-here deleted documents are 0 as there are no books craeted in the database before the date passed in the function deleteBooksScrapedBeforeDate()
+here deleted documents are 0 as there are no books created in the database before the date passed in the function deleteBooksScrapedBeforeDate()
+
 ![delete record output](https://user-images.githubusercontent.com/78660994/171063285-6bae27cd-05e6-4dca-9900-123c531da6f2.PNG)
