@@ -10,7 +10,7 @@ async function main(){
     try{
     await client.connect();
 
-    //caaling function to create multiple data entries in a collection - Books   
+    //calling function to create multiple data entries in a collection - Books   
     await createMultipleListings(client, [{
         Book_Id: 3,
         BookName: "Hamlet",
